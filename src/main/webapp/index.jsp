@@ -5,8 +5,8 @@
 </head>
 <body>
 
-    <h1>Welcome to Maven Web Application</h1>
-    <h1>Welcome to Maven Web Application</h1>
+    <h1>Welcome to Devops world</h1>
+    <h1>Finally you made it Akash</h1>
 
     <h2>Deployed using Maven</h2>
 
