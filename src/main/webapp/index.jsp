@@ -6,6 +6,7 @@
 <body>
 
     <h1>Welcome to Maven Web Application</h1>
+    <h1>Welcome to Maven Web Application</h1>
 
     <h2>Deployed using Maven</h2>
 
