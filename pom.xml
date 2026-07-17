@@ -13,7 +13,7 @@
     <name>Simple Web Application</name>
 
     <build>
-        <finalName>simple-webapp</finalName>
+        <finalName>webapp</finalName>
     </build>
 
 </project>
